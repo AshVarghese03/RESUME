@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;text-align: center;
+}
+
+.bg{
+    background-color: rgb(105, 114, 114) ; font-style:inherit; font-family:Verdana, Geneva, Tahoma, sans-serif; font-weight: 300; display: flex; justify-content: center;align-items: center;border: 2px solid black;
+}
+
+.imgdiv{
+    background-color: aliceblue; text-align: center; 
+}
+
+.profimg{
+    width: 200px;;height:200px;border-radius: 50%; border: 7px solid rgb(0, 0, 0); align-content: center; justify-content: center; display: block; margin: 0 auto;border: 2px solid black;
+}
+
+.profbg{
+    background-color: rgb(181, 203, 151); text-align: center;border: 2px solid black;
+}
+
+.prof{
+    font-size: 24px;
+}
